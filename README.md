@@ -1,4 +1,4 @@
-# Flying-Objects-Detection-and-Recognition
+# OpenCV based Flying-Objects-Detection-and-Recognition, use case for Airports
 
 ### Abstract
 In our [paper](https://drive.google.com/file/d/1Uvw1y5_0kJhcN2HuGcNBxO5zeKJACSOX/view?usp=sharing) we propose some techniques to detect
